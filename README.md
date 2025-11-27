@@ -1,10 +1,10 @@
 # Awesome Autonomous Scientist [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of autonomous scientist systems that can independently conduct research, design experiments, analyze data, write papers, and generate scientific discoveries.
+> A curated list of autonomous scientist frameworks that can independently conduct research, design experiments, analyze data, write papers, and generate scientific discoveries.
 
 Autonomous scientists represent a new paradigm in scientific discovery where AI systems can perform the complete research lifecycle - from hypothesis generation to peer review - with minimal or no human intervention. These systems leverage large language models and multi-agent frameworks to accelerate scientific progress across multiple domains.
 
-## AI Research Agents
+## Frameworks
 
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg) - First comprehensive system for fully automatic scientific discovery. Enables LLMs to autonomously generate research ideas, conduct experiments, and write academic papers across multiple domains.
 
