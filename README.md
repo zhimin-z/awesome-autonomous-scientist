@@ -1,6 +1,6 @@
 # Awesome Autonomous Scientist [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of autonomous AI scientist systems that can independently conduct research, design experiments, analyze data, write papers, and generate scientific discoveries.
+> A curated list of autonomous scientist systems that can independently conduct research, design experiments, analyze data, write papers, and generate scientific discoveries.
 
 Autonomous scientists represent a new paradigm in scientific discovery where AI systems can perform the complete research lifecycle - from hypothesis generation to peer review - with minimal or no human intervention. These systems leverage large language models and multi-agent frameworks to accelerate scientific progress across multiple domains.
 
