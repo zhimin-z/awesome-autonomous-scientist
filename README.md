@@ -8,6 +8,7 @@
 
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg) - First comprehensive system for fully automatic scientific discovery. Enables LLMs to autonomously generate research ideas, conduct experiments, and write academic papers across multiple domains.
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg) - Multi-agent framework for data science workflows built on Google's Agent Development Kit and Claude Agent SDK. Separates planning from execution with continuous validation and adaptive approach.
+- [aiXiv](https://github.com/aixiv-org/aiXiv) ![](https://img.shields.io/github/stars/aixiv-org/aiXiv.svg) - Multi-agent platform for AI-driven scientific research. A preprint server for AI Scientists and Robot Scientists with dual-track review system and auto-agents ecosystem.
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg) - AI-powered research assistant for automated research workflows.
 
 ## Commercial Platforms
