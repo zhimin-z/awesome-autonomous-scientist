@@ -19,6 +19,7 @@
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist for end-to-end research automation.
 - [Elicit](https://elicit.org) - AI research assistant that automates literature review workflows.
 - [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery) - Enterprise AI platform for intelligent document understanding and search.
+- [PaperReview](https://paperreview.ai) - AI-powered platform for automated paper review and feedback.
 - [SciSpace](https://scispace.com) - AI copilot for research paper reading, writing, and understanding.
 
 ## Contributing
