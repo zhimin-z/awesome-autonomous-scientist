@@ -10,8 +10,8 @@
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg) - Multi-agent framework for data science workflows with separated planning and execution phases.
 - [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) ![](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory.svg) - End-to-end autonomous research workflow using LLM agents to assist with literature reviews, experiments, and report writing.
 - [aiXiv](https://github.com/aixiv-org/aiXiv) ![](https://img.shields.io/github/stars/aixiv-org/aiXiv.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
-- [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg) - Autonomous Generalist Scientist framework for fully automated research agents from literature reviews to experiments and writing.
-- [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg) - Automated Research Assistant for closed-loop empirical research with autonomous experiment design and data analysis.
+- [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg) - Autonomous generalist scientist framework for fully automated research agents from literature reviews to experiments and writing.
+- [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg) - Automated research assistant for closed-loop empirical research with autonomous experiment design and data analysis.
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg) - AI-powered research assistant for automated research workflows.
 
 ## Commercial Platforms
